@@ -50,7 +50,7 @@ Backend system that aggregates multiple external data sources and produces struc
 
 ## 🔗 Connect with me
 - **LinkedIn:** https://www.linkedin.com/in/priyanshu-sharma-13b629309/
-- **Portfolio:** (add your live portfolio link here)
+- **Portfolio:** https://priyanshu-sharma-10.netlify.app/
 - **LeetCode:** https://leetcode.com/u/priyanshusharma08/
 
 ---
