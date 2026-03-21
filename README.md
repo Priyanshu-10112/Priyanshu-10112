@@ -1,58 +1,71 @@
-# Hi, I’m Priyanshu Sharma 👋  
-### Java Backend Developer | Spring Boot
+## Hi, I’m Priyanshu Sharma 👋
 
-I’m a BTech Cybersecurity student focused on building **production-style backend systems** with clean APIs, structured databases, and real-world workflows.
+**Java Backend Developer | Spring Boot**
+
+BTech Cybersecurity student focused on building backend systems with real-world workflows, clean API design, and reliable data handling.
 
 ---
 
-## 🔧 What I work with
-- **Backend:** Java, Spring Boot  
-- **Frontend:** React, JSP  
-- **Database:** MySQL, Firebase Firestore  
-- **Tools:** Git, n8n  
+## 🔧 Tech Stack
+
+* **Languages:** Java
+* **Backend:** Spring Boot, REST APIs, JDBC
+* **Frontend:** React, JSP
+* **Database:** MySQL, Firebase Firestore
+* **Tools:** Git, GitHub, n8n
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🟣 ArogyaJal – Smart Health Surveillance System (SIH)
-**Role:** Backend + Web Dashboard + ML Integration  
-A government-scale system to detect and predict water-borne disease outbreaks using IoT data, ML-based risk prediction, and real-time dashboards.
+### 🟣 AarogyaJal – Smart Health Monitoring System (SIH Winner)
 
-**Tech:** Spring Boot, Firebase, React, ML, n8n  
-🔗 *Project showcased in my portfolio*
+**Role:** Backend Developer
+
+* Built backend using **Spring Boot + Firebase Firestore** for early detection of water-borne diseases
+* Developed **190+ REST APIs across 25 modules** for data collection, alert generation, and reporting
+* Implemented **real-time alerts using WebSockets**
+* Designed **offline-first data synchronization** for low-connectivity environments
+* Integrated IoT-based data flow for health monitoring
+
+🔗 Live Demo: https://arogyajal.netlify.app/
 
 ---
 
-### 🟢 EstateAura – Real Estate Management System (Solo Project)
-An end-to-end real estate management platform with role-based access, property workflows, appointment handling, and OTP-based authentication.
+### 🟢 EstateAura – Real Estate Management System
 
-**Tech:** Spring Boot, JSP, MySQL  
-🔗 *Pinned repository*
+**Solo Project**
+
+* Developed role-based system with **authentication and property workflows**
+* Implemented **appointment scheduling and OTP-based verification**
+* Designed backend using **Spring Boot + MySQL**
 
 ---
 
 ### 🔵 Deep Research Agent
-Backend system that aggregates multiple external data sources and produces structured, AI-based research summaries.
 
-**Tech:** Spring Boot, MySQL  
-🔗 *Backend orchestration focused project*
+**Backend System**
 
----
-
-## 📌 What I care about
-- Backend architecture & system design  
-- Clean API contracts  
-- Data integrity & role-based access  
-- Building things that actually work end-to-end  
+* Built system to **aggregate multiple data sources** and generate structured outputs
+* Focused on backend orchestration and data processing pipelines
 
 ---
 
-## 🔗 Connect with me
-- **LinkedIn:** https://www.linkedin.com/in/priyanshu-sharma-13b629309/
-- **Portfolio:** https://priyanshu-sharma-10.netlify.app/
-- **LeetCode:** https://leetcode.com/u/priyanshusharma08/
+## 📌 What I Focus On
+
+* Backend architecture & system design
+* Clean and maintainable API design
+* Data consistency and role-based access
+* Building complete, working systems (not just demos)
 
 ---
 
-> I prefer building solid systems over flashy demos.
+## 🔗 Connect
+
+* LinkedIn: https://www.linkedin.com/in/priyanshu-sharma-13b629309/
+* Portfolio: https://priyanshu-sharma-10.netlify.app/
+* LeetCode: https://leetcode.com/u/priyanshusharma08/
+
+---
+
+> I focus on building systems that work reliably in real-world conditions.
