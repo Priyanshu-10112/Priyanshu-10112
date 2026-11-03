@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="310" viewBox="0 0 1120 310" role="img" aria-labelledby="title desc">
+  <title id="title">Priyanshu Sharma — Java Backend Developer</title>
+  <desc id="desc">Java, Spring Boot, and reliable backend systems. Smart India Hackathon 2025 winner.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#24344b"/>
+    </pattern>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1120" height="310" rx="20" fill="#0d1524"/>
+  <rect x="672" y="1" width="447" height="308" rx="20" fill="url(#grid)"/>
+  <path d="M672 1H1100Q1119 1 1119 20V290Q1119 309 1100 309H672" fill="none" stroke="#24344b"/>
+  <rect x="1" y="1" width="1118" height="308" rx="19" fill="none" stroke="#28384e"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <circle cx="46" cy="43" r="5" fill="#2dd4bf"/>
+    <text x="62" y="48" font-size="13" letter-spacing="2" fill="#94a3b8">JAVA BACKEND DEVELOPER</text>
+    <text x="40" y="123" font-size="55" font-weight="700" letter-spacing="-2" fill="#f1f5f9">Priyanshu Sharma<tspan fill="#38bdf8">.</tspan></text>
+    <text x="43" y="164" font-size="18" fill="#afbed0">Building the systems behind the screen.</text>
+    <path d="M43 195H620" stroke="#28384e"/>
+    <text x="43" y="225" font-size="13" letter-spacing="1" fill="#67e8f9">JAVA  /  SPRING BOOT  /  REST APIs</text>
+    <rect x="42" y="247" width="183" height="29" rx="7" fill="#112c39" stroke="#24536a"/>
+    <text x="58" y="266" font-size="12" font-weight="600" fill="#a5f3fc">SIH 2025 WINNER</text>
+    <text x="244" y="266" font-size="12" fill="#788ba5">Cybersecurity student · Systems builder</text>
+  </g>
+  <g fill="none" stroke="#304860" stroke-width="2">
+    <path d="M765 91H874Q897 91 897 114V155"/>
+    <path d="M897 155V213Q897 236 874 236H765"/>
+    <path d="M765 91V236" stroke-dasharray="4 7"/>
+  </g>
+  <path d="M765 91H874Q897 91 897 114V213Q897 236 874 236H765" fill="none" stroke="url(#line)" stroke-width="2" opacity=".65"/>
+  <circle r="4" fill="#67e8f9">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M765 91H874Q897 91 897 114V213Q897 236 874 236H765"/>
+  </circle>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" text-anchor="middle">
+    <rect x="709" y="65" width="112" height="52" rx="12" fill="#122438" stroke="#367d9e"/>
+    <text x="765" y="97" font-size="15" font-weight="600" fill="#67e8f9">REST API</text>
+    <rect x="843" y="139" width="108" height="52" rx="12" fill="#122438" stroke="#367d9e"/>
+    <text x="897" y="171" font-size="15" font-weight="600" fill="#67e8f9">DATA</text>
+    <rect x="709" y="210" width="112" height="52" rx="12" fill="#102b31" stroke="#2e756e"/>
+    <text x="765" y="242" font-size="15" font-weight="600" fill="#5eead4">EVENTS</text>
+    <text x="1023" y="91" font-size="12" letter-spacing="2" fill="#60758f" transform="rotate(90 1023 91)">DESIGN · BUILD · REFINE</text>
+  </g>
+</svg>
