@@ -117,7 +117,6 @@ I'm a **Java backend developer** and **BTech CSE (Cybersecurity) student at AITR
 ## Community
 
 - **Technical speaker & mentor:** conducted technical sessions for 250+ students on Java, Spring Boot, Python, and backend development.
-- **VTools Manager, IEEE TEMS SBC AITR.**
 
 ## Let's connect
 
