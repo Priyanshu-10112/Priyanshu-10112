@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Priyanshu Sharma — Java Backend Developer. Java, Spring Boot, REST APIs. SIH 2025 Winner." />
+  <img src="./assets/header.svg?v=2" width="100%" alt="Priyanshu Sharma — Java Backend Developer. Java, Spring Boot, REST APIs. SIH 2025 Winner." />
 </p>
 
 <p align="center">
