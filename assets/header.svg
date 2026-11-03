@@ -40,6 +40,6 @@
     <text x="897" y="171" font-size="15" font-weight="600" fill="#67e8f9">DATA</text>
     <rect x="709" y="210" width="112" height="52" rx="12" fill="#102b31" stroke="#2e756e"/>
     <text x="765" y="242" font-size="15" font-weight="600" fill="#5eead4">EVENTS</text>
-    <text x="1023" y="91" font-size="12" letter-spacing="2" fill="#60758f" transform="rotate(90 1023 91)">DESIGN · BUILD · REFINE</text>
+    <text x="1023" y="155" font-size="12" letter-spacing="2" fill="#60758f" transform="rotate(90 1023 155)">DESIGN · BUILD · REFINE</text>
   </g>
 </svg>
