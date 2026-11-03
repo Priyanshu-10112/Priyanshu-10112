@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="170" viewBox="0 0 600 170" role="img" aria-labelledby="title desc">
+  <title id="title">AarogyaJal</title>
+  <desc id="desc">Health data and early warning systems, illustrated with a pulse flowing into connected data nodes.</desc>
+  <defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#26384b"/></pattern></defs>
+  <rect width="600" height="170" rx="14" fill="#0d1524"/>
+  <rect x="350" y="1" width="249" height="168" rx="13" fill="url(#dots)"/>
+  <rect x="1" y="1" width="598" height="168" rx="13" fill="none" stroke="#28384e"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="28" y="41" font-size="12" letter-spacing="1.8" fill="#67e8f9">HEALTH &amp; EARLY WARNING</text>
+    <text x="26" y="91" font-size="32" font-weight="700" letter-spacing="-1" fill="#f1f5f9">AarogyaJal<tspan fill="#38bdf8">.</tspan></text>
+    <text x="28" y="121" font-size="13" fill="#a5b4c8">Data. Alerts. Resilience.</text>
+  </g>
+  <path d="M28 143H100" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/>
+  <g fill="none" stroke="#38bdf8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="384" y="44" width="108" height="82" rx="12" fill="#102438" stroke="#28516b"/>
+    <path d="M396 86H411L421 64L435 107L447 78L456 86H480"/>
+    <path d="M492 85H520V50H550M520 85V120H550" stroke="#36718a"/>
+    <circle cx="550" cy="50" r="7" fill="#12364a"/>
+    <circle cx="550" cy="120" r="7" fill="#12364a"/>
+    <circle cx="520" cy="85" r="4" fill="#67e8f9" stroke="none"/>
+  </g>
+</svg>

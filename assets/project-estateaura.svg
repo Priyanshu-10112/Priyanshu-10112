@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="170" viewBox="0 0 600 170" role="img" aria-labelledby="title desc">
+  <title id="title">EstateAura</title>
+  <desc id="desc">Property management and role-based workflows, illustrated with a building and connected workflow steps.</desc>
+  <defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#303047"/></pattern></defs>
+  <rect width="600" height="170" rx="14" fill="#0d1524"/>
+  <rect x="350" y="1" width="249" height="168" rx="13" fill="url(#dots)"/>
+  <rect x="1" y="1" width="598" height="168" rx="13" fill="none" stroke="#28384e"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="28" y="41" font-size="12" letter-spacing="1.8" fill="#c4b5fd">PROPERTY &amp; WORKFLOWS</text>
+    <text x="26" y="91" font-size="32" font-weight="700" letter-spacing="-1" fill="#f1f5f9">EstateAura<tspan fill="#a78bfa">.</tspan></text>
+    <text x="28" y="121" font-size="13" fill="#a5b4c8">Roles. Properties. Access.</text>
+  </g>
+  <path d="M28 143H100" stroke="#a78bfa" stroke-width="3" stroke-linecap="round"/>
+  <g fill="none" stroke="#a78bfa" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M392 129H479" stroke="#6e6094"/>
+    <rect x="402" y="46" width="63" height="83" rx="7" fill="#21213b" stroke="#8673ba"/>
+    <path d="M416 63H424M441 63H449M416 80H424M441 80H449M416 97H424M441 97H449"/>
+    <path d="M427 129V113H441V129"/>
+    <path d="M465 69H504V52H544M504 69V115H544" stroke="#665786"/>
+    <rect x="532" y="40" width="24" height="24" rx="6" fill="#26213e"/>
+    <rect x="532" y="103" width="24" height="24" rx="6" fill="#26213e"/>
+    <circle cx="504" cy="69" r="4" fill="#c4b5fd" stroke="none"/>
+  </g>
+</svg>

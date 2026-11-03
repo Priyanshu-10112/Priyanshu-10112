@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="170" viewBox="0 0 600 170" role="img" aria-labelledby="title desc">
+  <title id="title">Deep Research Agent</title>
+  <desc id="desc">Research orchestration and structured outputs, illustrated with multiple sources flowing into one report.</desc>
+  <defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#243a42"/></pattern></defs>
+  <rect width="600" height="170" rx="14" fill="#0d1524"/>
+  <rect x="350" y="1" width="249" height="168" rx="13" fill="url(#dots)"/>
+  <rect x="1" y="1" width="598" height="168" rx="13" fill="none" stroke="#28384e"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="28" y="41" font-size="12" letter-spacing="1.8" fill="#5eead4">RESEARCH &amp; ORCHESTRATION</text>
+    <text x="26" y="83" font-size="28" font-weight="700" letter-spacing="-1" fill="#f1f5f9">Deep Research</text>
+    <text x="26" y="114" font-size="28" font-weight="700" letter-spacing="-1" fill="#f1f5f9">Agent<tspan fill="#2dd4bf">.</tspan></text>
+  </g>
+  <path d="M28 143H100" stroke="#2dd4bf" stroke-width="3" stroke-linecap="round"/>
+  <g fill="none" stroke="#2dd4bf" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="381" y="39" width="28" height="24" rx="6" fill="#102c32" stroke="#367c79"/>
+    <rect x="381" y="73" width="28" height="24" rx="6" fill="#102c32" stroke="#367c79"/>
+    <rect x="381" y="107" width="28" height="24" rx="6" fill="#102c32" stroke="#367c79"/>
+    <path d="M409 51H443V119H409M409 85H482" stroke="#387771"/>
+    <circle cx="443" cy="85" r="5" fill="#5eead4" stroke="none"/>
+    <path d="M493 43H532L550 61V127H493Z" fill="#102c32" stroke="#479e91"/>
+    <path d="M532 43V61H550M506 78H537M506 93H537M506 108H527"/>
+    <path d="M475 79L482 85L475 91" stroke="#5eead4"/>
+  </g>
+</svg>

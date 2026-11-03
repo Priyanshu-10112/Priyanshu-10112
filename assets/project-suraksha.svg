@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="170" viewBox="0 0 600 170" role="img" aria-labelledby="title desc">
+  <title id="title">Suraksha Setu</title>
+  <desc id="desc">Computer vision and live monitoring, illustrated with a camera, detection frame, and shield.</desc>
+  <defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#303442"/></pattern></defs>
+  <rect width="600" height="170" rx="14" fill="#0d1524"/>
+  <rect x="350" y="1" width="249" height="168" rx="13" fill="url(#dots)"/>
+  <rect x="1" y="1" width="598" height="168" rx="13" fill="none" stroke="#28384e"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="28" y="41" font-size="12" letter-spacing="1.8" fill="#fcd34d">COMPUTER VISION &amp; SECURITY</text>
+    <text x="26" y="91" font-size="32" font-weight="700" letter-spacing="-1" fill="#f1f5f9">Suraksha Setu<tspan fill="#fbbf24">.</tspan></text>
+    <text x="28" y="121" font-size="13" fill="#a5b4c8">Detect. Track. Notify.</text>
+  </g>
+  <path d="M28 143H100" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/>
+  <g fill="none" stroke="#fbbf24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M385 69V51H403M464 51H482V69M385 102V120H403M464 120H482V102" stroke="#846b36"/>
+    <rect x="399" y="68" width="48" height="34" rx="8" fill="#282638"/>
+    <path d="M447 77L465 69V101L447 93Z" fill="#282638"/>
+    <circle cx="420" cy="85" r="8"/>
+    <path d="M526 49L555 61V88C555 109 542 123 526 132C510 123 497 109 497 88V61Z" fill="#242536" stroke="#dcae43"/>
+    <path d="M513 88L523 98L541 77" stroke="#fcd34d"/>
+  </g>
+</svg>
