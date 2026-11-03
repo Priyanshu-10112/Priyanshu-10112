@@ -3,17 +3,18 @@
 </p>
 
 <p align="center">
+  <a href="https://priyanshu-sharma.tech"><img src="https://img.shields.io/badge/Explore_my_portfolio-38BDF8?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0D1524" alt="Explore my portfolio — priyanshu-sharma.tech" /></a>
+</p>
+
+<p align="center">
   <a href="#selected-work">Selected work</a> ·
   <a href="#toolbox">Toolbox</a> ·
-  <a href="#github-activity">Activity</a> ·
   <a href="#lets-connect">Connect</a>
 </p>
 
 ## Hey, I'm Priyanshu 👋
 
-I'm a **Java backend developer** and **BTech Cybersecurity student** who likes turning complex workflows into clear APIs and dependable data flows.
-
-My work spans health monitoring, real-time alerts, offline synchronization, and property management. I care about what happens behind the interface: **API design, data consistency, access control, and systems that keep working when conditions aren't ideal.**
+I'm a **Java backend developer** and **BTech Cybersecurity student** building APIs and dependable data flows. My work spans **health monitoring, real-time alerts, offline sync, and property management**.
 
 ## Selected work
 
@@ -62,24 +63,14 @@ A system for early detection of water-borne diseases, connecting health data, Io
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,firebase,react,git,github&amp;theme=dark" alt="Java, Spring, MySQL, Firebase, React, Git, and GitHub" />
 </p>
 
-| Layer | What I work with |
-| :--- | :--- |
-| Backend | Java · Spring Boot · REST APIs · JDBC · WebSockets |
-| Data | MySQL · Firebase Firestore · Offline synchronization |
-| Frontend & workflow | React · JSP · Git · GitHub · n8n |
-
-## GitHub activity
-
-<a href="https://github.com/Priyanshu-10112">
-  <img src="https://ghchart.rshah.org/38bdf8/Priyanshu-10112" width="100%" alt="Priyanshu's GitHub contribution calendar" />
-</a>
+**Also in my workflow:** REST APIs · JDBC · WebSockets · JSP · n8n
 
 ## Let's connect
 
 Java, backend systems, and useful ideas — always happy to talk.
 
 <p>
-  <a href="https://priyanshu-sharma-10.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0D1524?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=38BDF8" alt="Portfolio" /></a>
+  <a href="https://priyanshu-sharma.tech"><img src="https://img.shields.io/badge/Portfolio-0D1524?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=38BDF8" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/priyanshu-sharma10/"><img src="https://img.shields.io/badge/LinkedIn-0D1524?style=for-the-badge&amp;logo=linkedin&amp;logoColor=38BDF8" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/priyanshusharma08/"><img src="https://img.shields.io/badge/LeetCode-0D1524?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FBBF24" alt="LeetCode" /></a>
 </p>
