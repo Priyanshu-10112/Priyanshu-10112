@@ -1,13 +1,19 @@
 <p align="center">
-  <img src="./assets/header.svg?v=3" width="100%" alt="Priyanshu Sharma — Backend Developer. Java, Spring Boot, Python, FastAPI. SIH 2025 Winner." />
+  <img src="./assets/header.svg?v=4" width="100%" alt="Priyanshu Sharma — Java backend developer. Engineering the next move. SIH 2025 Winner and AWS Certified Cloud Practitioner." />
 </p>
 
-<p align="center">
-  <a href="https://priyanshu-sharma.tech"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0D1524" alt="Portfolio — priyanshu-sharma.tech" /></a>
-  <a href="https://www.linkedin.com/in/priyanshu-sharma10/"><img src="https://img.shields.io/badge/LinkedIn-0D1524?style=for-the-badge&amp;logo=linkedin&amp;logoColor=38BDF8" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/priyanshusharma08/"><img src="https://img.shields.io/badge/LeetCode-0D1524?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FBBF24" alt="LeetCode" /></a>
-  <a href="https://priyanshu-sharma.tech/assets/resume.pdf"><img src="https://img.shields.io/badge/Resume-0D1524?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=38BDF8" alt="Read my resume" /></a>
-</p>
+<table>
+  <tr>
+    <td width="50%"><a href="https://priyanshu-sharma.tech"><img src="./assets/link-portfolio.svg" width="100%" alt="Portfolio — Projects and case studies" /></a></td>
+    <td width="50%"><a href="https://github.com/Priyanshu-10112?tab=repositories"><img src="./assets/link-github.svg" width="100%" alt="GitHub — Source code and repositories" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://www.linkedin.com/in/priyanshu-sharma10/"><img src="./assets/link-linkedin.svg" width="100%" alt="LinkedIn — Experience and contact" /></a></td>
+    <td width="50%"><a href="https://leetcode.com/u/priyanshusharma08/"><img src="./assets/link-leetcode.svg" width="100%" alt="LeetCode — Problem-solving profile" /></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://priyanshu-sharma.tech/assets/resume.pdf">Read the résumé ↗</a></p>
 
 <p align="center">
   <a href="#selected-work">Selected work</a> ·
