@@ -6,17 +6,19 @@
   <a href="https://priyanshu-sharma.tech"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0D1524" alt="Portfolio — priyanshu-sharma.tech" /></a>
   <a href="https://www.linkedin.com/in/priyanshu-sharma10/"><img src="https://img.shields.io/badge/LinkedIn-0D1524?style=for-the-badge&amp;logo=linkedin&amp;logoColor=38BDF8" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/priyanshusharma08/"><img src="https://img.shields.io/badge/LeetCode-0D1524?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FBBF24" alt="LeetCode" /></a>
+  <a href="https://priyanshu-sharma.tech/assets/resume.pdf"><img src="https://img.shields.io/badge/Resume-0D1524?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=38BDF8" alt="Read my resume" /></a>
 </p>
 
 <p align="center">
   <a href="#selected-work">Selected work</a> ·
-  <a href="#toolbox">Toolbox</a> ·
+  <a href="#recognition--credentials">Recognition</a> ·
+  <a href="#community">Community</a> ·
   <a href="#lets-connect">Connect</a>
 </p>
 
 ## Hey, I'm Priyanshu 👋
 
-I'm a **Java backend developer** and **BTech Cybersecurity student** building APIs, dependable data workflows, and systems that connect software to real-world problems.
+I'm a **Java backend developer** and **BTech CSE (Cybersecurity) student at AITR, Indore**, building APIs, dependable data workflows, and systems that connect software to real-world problems.
 
 **REST APIs · Real-time alerts · Offline sync · Computer vision**
 
@@ -67,14 +69,38 @@ I'm a **Java backend developer** and **BTech Cybersecurity student** building AP
     <td valign="top" width="50%">
       <a href="https://github.com/Priyanshu-10112/DeepResearchAgent"><img src="./assets/project-research.svg" width="100%" alt="Deep Research Agent — data orchestration" /></a>
       <h3>04 / Deep Research Agent</h3>
-      <p><strong>Research orchestration · Backend system</strong></p>
-      <p>A backend for collecting information from multiple sources and producing structured outputs.</p>
+      <p><strong>Research orchestration · Backend developer</strong></p>
+      <p>Spring Boot services that coordinate external APIs and store structured research outputs in MySQL.</p>
       <ul>
-        <li>Multi-source data aggregation.</li>
-        <li>Backend orchestration and data processing pipelines.</li>
+        <li>Parallel API calls with aggregated results.</li>
+        <li>Relevance filtering and AI-assisted summarization.</li>
       </ul>
-      <p><code>Java</code> <code>Data pipelines</code> <code>Orchestration</code></p>
+      <p><code>Java</code> <code>Spring Boot</code> <code>MySQL</code></p>
       <p><a href="https://github.com/Priyanshu-10112/DeepResearchAgent"><strong>Repository ↗</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+## Recognition & credentials
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Awards</h3>
+      <ul>
+        <li><strong>Global Innovation Excellence Award 2026</strong><br />Winner · AarogyaJal · W-AHEAD, New Delhi</li>
+        <li><strong>RAMSITA2 International Conference 2026</strong><br />1st place · Poster presentation</li>
+        <li><strong>Mediverse Hackathon 2025</strong><br />3rd place</li>
+      </ul>
+      <p><a href="https://priyanshu-sharma.tech/#achievements">Award details ↗</a></p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Credentials</h3>
+      <ul>
+        <li><a href="https://www.credly.com/badges/4f4786f2-0f38-4405-b437-e54c31470afc/linked_in?t=th1c5m"><strong>AWS Certified Cloud Practitioner ↗</strong></a><br />Issued June 2026 · Valid through June 2029</li>
+        <li><a href="https://priyanshu-sharma.tech/assets/certificates/nptel-java-2026.pdf"><strong>NPTEL Programming in Java ↗</strong></a><br />91% · Elite · 2026</li>
+        <li><a href="https://priyanshu-sharma.tech/assets/certificates/nptel-oop.pdf"><strong>NPTEL Fundamentals of OOP ↗</strong></a><br />91% · Top 2% · Elite · 2025</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -88,8 +114,15 @@ I'm a **Java backend developer** and **BTech Cybersecurity student** building AP
 **Backend & data:** REST APIs · JDBC · WebSockets · Swagger · Firebase Firestore  
 **Frontend & workflow:** React · JSP · GitHub · n8n
 
+## Community
+
+- **Technical speaker & mentor:** conducted technical sessions for 250+ students on Java, Spring Boot, Python, and backend development.
+- **VTools Manager, IEEE TEMS SBC AITR.**
+
 ## Let's connect
+
+**Open to backend and software roles.**
 
 Explore more work at **[priyanshu-sharma.tech ↗](https://priyanshu-sharma.tech)**, connect on **[LinkedIn ↗](https://www.linkedin.com/in/priyanshu-sharma10/)**, or find me on **[LeetCode ↗](https://leetcode.com/u/priyanshusharma08/)**.
 
-<p align="center"><sub>Clean APIs. Thoughtful data flows. Useful software.</sub></p>
+<p align="center"><sub>Find me on <a href="https://www.chess.com/member/priyanshu10113">Chess.com ↗</a>, too.</sub></p>
