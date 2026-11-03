@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="140" viewBox="0 0 600 140" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio</title>
+  <desc id="desc">Explore projects and case studies on Priyanshu Sharma's portfolio.</desc>
+  <defs>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#102536"/><stop offset="1" stop-color="#0b1422"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#38bdf8"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="598" height="138" rx="18" fill="url(#wash)" stroke="#24374b"/>
+  <path d="M28 1H215" stroke="url(#accent)" stroke-width="2"/>
+  <rect x="25" y="37" width="66" height="66" rx="18" fill="#102e42" stroke="#22516b"/>
+  <g fill="none" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M42 58H53L58 63H75V84H42Z"/>
+    <path d="M42 67H75M54 75H64"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="112" y="65" fill="#f1f5f9" font-size="32" font-weight="700" letter-spacing="-.6">Portfolio</text>
+    <text x="113" y="97" fill="#b5c5d8" font-size="20">Projects &amp; case studies</text>
+  </g>
+  <circle cx="553" cy="70" r="21" fill="#102534" stroke="#234356"/>
+  <path d="M546 77L560 63M547 63H560V76" fill="none" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,43 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="310" viewBox="0 0 1120 310" role="img" aria-labelledby="title desc">
-  <title id="title">Priyanshu Sharma — Java Backend Developer</title>
-  <desc id="desc">Java, Spring Boot, and reliable backend systems. Smart India Hackathon 2025 winner.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Priyanshu Sharma — Engineering the next move</title>
+  <desc id="desc">Java backend developer building APIs, real-time systems and computer vision projects. SIH 2025 Winner and AWS Certified Cloud Practitioner. A geometric rook stands on a chessboard, connected by an illuminated move path.</desc>
   <defs>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="1" fill="#24344b"/>
-    </pattern>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2dd4bf"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#09111f"/><stop offset=".65" stop-color="#0c1727"/><stop offset="1" stop-color="#102334"/>
     </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#2a8995" stop-opacity=".23"/><stop offset="1" stop-color="#163345" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rook" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#264a5c"/><stop offset=".5" stop-color="#123243"/><stop offset="1" stop-color="#0a1c2b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#5de6ee"/><stop offset="1" stop-color="#64b8ff"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#547488" opacity=".18"/>
+    </pattern>
   </defs>
-  <rect width="1120" height="310" rx="20" fill="#0d1524"/>
-  <rect x="672" y="1" width="447" height="308" rx="20" fill="url(#grid)"/>
-  <path d="M672 1H1100Q1119 1 1119 20V290Q1119 309 1100 309H672" fill="none" stroke="#24344b"/>
-  <rect x="1" y="1" width="1118" height="308" rx="19" fill="none" stroke="#28384e"/>
-  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
-    <circle cx="46" cy="43" r="5" fill="#2dd4bf"/>
-    <text x="62" y="49" font-size="16" letter-spacing="2" fill="#afbed0">BACKEND DEVELOPER</text>
-    <text x="40" y="123" font-size="55" font-weight="700" letter-spacing="-2" fill="#f1f5f9">Priyanshu Sharma<tspan fill="#38bdf8">.</tspan></text>
-    <text x="43" y="166" font-size="21" fill="#c4d2e3">Building the systems behind the screen.</text>
-    <path d="M43 195H620" stroke="#28384e"/>
-    <text x="43" y="225" font-size="16" fill="#67e8f9">JAVA / SPRING BOOT / PYTHON / FASTAPI</text>
-    <rect x="42" y="245" width="207" height="34" rx="7" fill="#112c39" stroke="#24536a"/>
-    <text x="58" y="268" font-size="16" font-weight="600" fill="#a5f3fc">SIH 2025 WINNER</text>
+  <rect width="1200" height="420" rx="24" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="418" rx="23" fill="none" stroke="#2b3d50"/>
+  <rect x="722" y="16" width="459" height="386" rx="16" fill="url(#dots)"/>
+  <ellipse cx="1018" cy="194" rx="219" ry="191" fill="url(#halo)"/>
+  <path d="M50 26H112L125 39" fill="none" stroke="#4bd8e7" stroke-width="2" opacity=".8"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="50" y="68" font-size="17" font-weight="600" letter-spacing="2.8" fill="#7ae0ec">JAVA BACKEND DEVELOPER</text>
+    <text x="47" y="140" font-size="64" font-weight="750" letter-spacing="-2.4" fill="#f3f7fc">Priyanshu Sharma<tspan fill="#63dce8">.</tspan></text>
+    <text x="50" y="196" font-size="32" font-weight="600" letter-spacing="-.6" fill="#dce8f4">Engineering the next move.</text>
+    <text x="51" y="233" font-size="21" fill="#adbed1">APIs, real-time systems &amp; computer vision.</text>
+    <path d="M51 263H647" stroke="#294052"/>
+    <text x="51" y="294" font-size="17" font-weight="500" letter-spacing=".55" fill="#83c6da">Java <tspan fill="#476477">/</tspan> Spring Boot <tspan fill="#476477">/</tspan> Python <tspan fill="#476477">/</tspan> FastAPI</text>
+    <rect x="50" y="324" width="177" height="38" rx="10" fill="#252b2c" stroke="#80744b"/>
+    <path d="M65 336L69 342L73 336L77 342L81 336V350H65Z" fill="none" stroke="#e8c675" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="91" y="349" font-size="15" font-weight="600" fill="#f4d897">SIH 2025 Winner</text>
+    <rect x="240" y="324" width="299" height="38" rx="10" fill="#102536" stroke="#315d76"/>
+    <text x="255" y="349" font-size="15" font-weight="600" fill="#b5e3f1">AWS Certified Cloud Practitioner</text>
   </g>
-  <g fill="none" stroke="#304860" stroke-width="2">
-    <path d="M765 91H874Q897 91 897 114V155"/>
-    <path d="M897 155V213Q897 236 874 236H765"/>
-    <path d="M765 91V236" stroke-dasharray="4 7"/>
+  <g>
+    <polygon points="714,282 930,390 1146,282 1146,293 930,401 714,293" fill="#07101b" stroke="#243d4e" stroke-width="1.5"/>
+    <polygon points="930,174 984,201 930,228 876,201" fill="#142c3b" stroke="#274354" stroke-width="1"/>
+    <polygon points="984,201 1038,228 984,255 930,228" fill="#0b1c2b" stroke="#274354" stroke-width="1"/>
+    <polygon points="1038,228 1092,255 1038,282 984,255" fill="#142c3b" stroke="#274354" stroke-width="1"/>
+    <polygon points="1092,255 1146,282 1092,309 1038,282" fill="#0b1c2b" stroke="#274354" stroke-width="1"/>
+    <polygon points="876,201 930,228 876,255 822,228" fill="#0b1c2b" stroke="#274354" stroke-width="1"/>
+    <polygon points="930,228 984,255 930,282 876,255" fill="#142c3b" stroke="#274354" stroke-width="1"/>
+    <polygon points="984,255 1038,282 984,309 930,282" fill="#0b1c2b" stroke="#274354" stroke-width="1"/>
+    <polygon points="1038,282 1092,309 1038,336 984,309" fill="#142c3b" stroke="#274354" stroke-width="1"/>
+    <polygon points="822,228 876,255 822,282 768,255" fill="#142c3b" stroke="#274354" stroke-width="1"/>
+    <polygon points="876,255 930,282 876,309 822,282" fill="#0b1c2b" stroke="#274354" stroke-width="1"/>
+    <polygon points="930,282 984,309 930,336 876,309" fill="#142c3b" stroke="#274354" stroke-width="1"/>
+    <polygon points="984,309 1038,336 984,363 930,336" fill="#0b1c2b" stroke="#274354" stroke-width="1"/>
+    <polygon points="768,255 822,282 768,309 714,282" fill="#0b1c2b" stroke="#274354" stroke-width="1"/>
+    <polygon points="822,282 876,309 822,336 768,309" fill="#142c3b" stroke="#274354" stroke-width="1"/>
+    <polygon points="876,309 930,336 876,363 822,336" fill="#0b1c2b" stroke="#274354" stroke-width="1"/>
+    <polygon points="930,336 984,363 930,390 876,363" fill="#142c3b" stroke="#274354" stroke-width="1"/>
+    <path d="M930 174L1146 282L930 390L714 282Z" fill="none" stroke="#456477" stroke-width="1.6"/>
+    <path d="M768 282L876 336L1038 255" fill="none" stroke="#102e3a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M768 282L876 336L1038 255" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="768" cy="282" r="6" fill="#f1d18a" stroke="#182e3b" stroke-width="3"/>
+    <circle cx="876" cy="336" r="4" fill="#8cf2ef"/>
+    <path d="M961 294L971 289L966 304" fill="none" stroke="#8ceaf0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
-  <path d="M765 91H874Q897 91 897 114V213Q897 236 874 236H765" fill="none" stroke="url(#line)" stroke-width="2" opacity=".65"/>
-  <circle r="4" fill="#67e8f9">
-    <animateMotion dur="6s" repeatCount="indefinite" path="M765 91H874Q897 91 897 114V213Q897 236 874 236H765"/>
-  </circle>
-  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" text-anchor="middle">
-    <rect x="709" y="65" width="112" height="52" rx="12" fill="#122438" stroke="#367d9e"/>
-    <text x="765" y="97" font-size="15" font-weight="600" fill="#67e8f9">REST API</text>
-    <rect x="843" y="139" width="108" height="52" rx="12" fill="#122438" stroke="#367d9e"/>
-    <text x="897" y="171" font-size="15" font-weight="600" fill="#67e8f9">DATA</text>
-    <rect x="709" y="210" width="112" height="52" rx="12" fill="#102b31" stroke="#2e756e"/>
-    <text x="765" y="242" font-size="15" font-weight="600" fill="#5eead4">EVENTS</text>
+  <ellipse cx="1038" cy="259" rx="63" ry="20" fill="#030a11" opacity=".6"/>
+  <g transform="translate(1038 255)" stroke-linejoin="round">
+    <path d="M-55-8L0-36L55-8L0 20Z" fill="#123043" stroke="#497487" stroke-width="1.5"/>
+    <path d="M-55-8L0 20V29L-55 1Z" fill="#0b1b2b" stroke="#345569" stroke-width="1"/>
+    <path d="M0 20L55-8V1L0 29Z" fill="#0e2233" stroke="#345569" stroke-width="1"/>
+    <path d="M-50-151V-177H-30V-162H-12V-177H10V-162H28V-177H48V-151L36-133V-50L50-30V-10H-50V-30L-37-50V-133Z" fill="url(#rook)" stroke="#78dce7" stroke-width="2.5"/>
+    <path d="M-37-133H36M-37-50H36M-50-30H50" fill="none" stroke="#6cbbca" stroke-width="1.5"/>
+    <path d="M-27-125V-58" fill="none" stroke="#3c768b" stroke-width="1.5"/>
+    <path d="M-2-111V-77" fill="none" stroke="#e7c67b" stroke-width="3" stroke-linecap="round"/>
+    <path d="M10-162H28V-177H48V-151L36-133V-50L50-30V-10H35V-29L22-49V-134L35-151V-162H28" fill="#84c7d0" opacity=".08" stroke="none"/>
   </g>
 </svg>
+
