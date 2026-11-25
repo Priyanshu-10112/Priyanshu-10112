@@ -30,24 +30,35 @@ I'm a **Java backend developer** and **BTech CSE (Cybersecurity) student at AITR
 
 ## Selected work
 
+### Singtel Scout - Team Catalyst
+
+**Merit Award, Emerging Technologies track - Singapore-India Hackathon 2026.**
+
+An AI-assisted enterprise lead-qualification tool that brings together company filings, news, tenders and CRM signals, ranks opportunities and explains the evidence behind them.
+
+- **My contribution:** customer portfolio and CRM dashboard workflows, customer-graph integration, sales analytics and evidence presentation.
+- **Team stack:** TypeScript, Node.js, Express, React, MongoDB and Neo4j.
+- [Live demo](https://singtel-scout.vercel.app/) · [Team repository](https://github.com/SNishanth2202/Singapore-hackathon) · [Organizer's award announcement](https://www.linkedin.com/feed/update/urn:li:activity:7530200901395865600/)
+
+
 <table>
   <tr>
     <td valign="top" width="50%">
-      <a href="https://github.com/Priyanshu-10112/ArogyaJal"><img src="./assets/project-aarogyajal.svg" width="100%" alt="AarogyaJal — smart health monitoring" /></a>
-      <h3>01 / AarogyaJal</h3>
-      <p><strong>Health monitoring · SIH 2025 winner</strong><br />Backend developer</p>
-      <p>Early detection of water-borne diseases through connected health data, IoT inputs, alerts, and reporting.</p>
+      <a href="https://github.com/Priyanshu-10112/ArogyaJal"><img src="./assets/project-aarogyajal.svg" width="100%" alt="ArogyaJal — smart health monitoring" /></a>
+      <h3>01 / ArogyaJal</h3>
+      <p><strong>Health monitoring · SIH 2025 winner</strong><br />Backend developer · Team CORE_401 · Aug 2025 - Mar 2026</p>
+      <p>Government-deployed water quality monitoring and disease surveillance, developed with Team CORE_401.</p>
       <ul>
         <li><strong>190+ REST APIs across 25 modules.</strong></li>
         <li><strong>WebSocket alerts</strong> and integrated IoT data flows.</li>
         <li><strong>Offline-first synchronization</strong> for low-connectivity environments.</li>
       </ul>
       <p><code>Java</code> <code>Spring Boot</code> <code>Firebase Firestore</code></p>
-      <p><a href="https://github.com/Priyanshu-10112/ArogyaJal"><strong>Repository ↗</strong></a> · <a href="https://arogyajal.netlify.app/"><strong>Live demo ↗</strong></a></p>
+      <p><a href="https://github.com/Priyanshu-10112/ArogyaJal"><strong>Repository ↗</strong></a> · <a href="https://arogyajal.netlify.app/"><strong>Public website ↗</strong></a></p>
     </td>
     <td valign="top" width="50%">
-      <a href="https://github.com/Priyanshu-10112/Suraksha-setu"><img src="./assets/project-suraksha.svg" width="100%" alt="Suraksha Setu — AI-powered intrusion detection" /></a>
-      <h3>02 / Suraksha Setu</h3>
+      <a href="https://github.com/Priyanshu-10112/Suraksha-setu"><img src="./assets/project-suraksha.svg" width="100%" alt="Suraksha-Setu — AI-powered intrusion detection" /></a>
+      <h3>02 / Suraksha-Setu</h3>
       <p><strong>Computer vision · Multi-camera monitoring</strong></p>
       <p>AI-powered person detection across normal, safe, and restricted zones.</p>
       <ul>
@@ -75,7 +86,7 @@ I'm a **Java backend developer** and **BTech CSE (Cybersecurity) student at AITR
     <td valign="top" width="50%">
       <a href="https://github.com/Priyanshu-10112/DeepResearchAgent"><img src="./assets/project-research.svg" width="100%" alt="Deep Research Agent — data orchestration" /></a>
       <h3>04 / Deep Research Agent</h3>
-      <p><strong>Research orchestration · Backend developer</strong></p>
+      <p><strong>Research orchestration · Completed project</strong><br />Backend developer</p>
       <p>Spring Boot services that coordinate external APIs and store structured research outputs in MySQL.</p>
       <ul>
         <li>Parallel API calls with aggregated results.</li>
@@ -94,9 +105,12 @@ I'm a **Java backend developer** and **BTech CSE (Cybersecurity) student at AITR
     <td valign="top" width="50%">
       <h3>Awards</h3>
       <ul>
-        <li><strong>Global Innovation Excellence Award 2026</strong><br />Winner · AarogyaJal · W-AHEAD, New Delhi</li>
-        <li><strong>RAMSITA2 International Conference 2026</strong><br />1st place · Poster presentation</li>
+        <li><strong>Singapore–India Hackathon 2026</strong><br />Merit Award · Emerging Technologies track · Team Catalyst · Singtel Scout</li>
+        <li><strong>Smart India Hackathon 2025</strong><br />Winner · Team CORE_401 · ArogyaJal</li>
+        <li><strong>Global Innovation Excellence Award 2026</strong><br />Winner · ArogyaJal · W-AHEAD, New Delhi</li>
         <li><strong>Mediverse Hackathon 2025</strong><br />3rd place</li>
+        <li><strong>IEEE IGNITE 2.0, 2026</strong><br />2nd Prize · Research presentation</li>
+        <li><strong>RAMSITA 2026 International Conference</strong><br />Best Poster Award · 1st place</li>
       </ul>
       <p><a href="https://priyanshu-sharma.tech/#achievements">Award details ↗</a></p>
     </td>
@@ -106,6 +120,9 @@ I'm a **Java backend developer** and **BTech CSE (Cybersecurity) student at AITR
         <li><a href="https://www.credly.com/badges/4f4786f2-0f38-4405-b437-e54c31470afc/linked_in?t=th1c5m"><strong>AWS Certified Cloud Practitioner ↗</strong></a><br />Issued June 2026 · Valid through June 2029</li>
         <li><a href="https://priyanshu-sharma.tech/assets/certificates/nptel-java-2026.pdf"><strong>NPTEL Programming in Java ↗</strong></a><br />91% · Elite · 2026</li>
         <li><a href="https://priyanshu-sharma.tech/assets/certificates/nptel-oop.pdf"><strong>NPTEL Fundamentals of OOP ↗</strong></a><br />91% · Top 2% · Elite · 2025</li>
+        <li><a href="https://priyanshu-sharma.tech/assets/certificates/google-cloud.pdf"><strong>Google Cloud Career Launchpad - Computing Foundations</strong></a><br />2025</li>
+        <li><a href="https://priyanshu-sharma.tech/assets/certificates/nptel-dbms.pdf"><strong>NPTEL Data Base Management System</strong></a><br />70% · 2025</li>
+        <li><a href="https://priyanshu-sharma.tech/assets/certificates/cps-iot.pdf"><strong>CPS &amp; IoT Training Workshop</strong></a><br />IIT Ropar CPS Lab / AITR · 2025</li>
       </ul>
     </td>
   </tr>
@@ -118,15 +135,18 @@ I'm a **Java backend developer** and **BTech CSE (Cybersecurity) student at AITR
 </p>
 
 **Backend & data:** REST APIs · JDBC · WebSockets · Swagger · Firebase Firestore  
+**Enterprise data:** TypeScript · Node.js / Express · MongoDB · Neo4j<br />
 **Frontend & workflow:** React · JSP · GitHub · n8n
 
 ## Community
+
+- **VTools Manager - IEEE TEMS Student Branch Chapter, AITR:** student community role, Jan 2026 - Present.
 
 - **Technical speaker & mentor:** conducted technical sessions for 250+ students on Java, Spring Boot, Python, and backend development.
 
 ## Let's connect
 
-**Open to backend and software roles.**
+**B.Tech student seeking backend/software internships and fresher roles.**
 
 Explore more work at **[priyanshu-sharma.tech ↗](https://priyanshu-sharma.tech)**, connect on **[LinkedIn ↗](https://www.linkedin.com/in/priyanshu-sharma10/)**, or find me on **[LeetCode ↗](https://leetcode.com/u/priyanshusharma08/)**.
 
